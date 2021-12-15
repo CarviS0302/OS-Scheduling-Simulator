@@ -1,0 +1,8 @@
+# 
+500 totalSimulationTime
+17777  quantum
+36    contextSwitchTime
+2500000 averageProcessLength
+3500000 averageCreationTime
+42    IOBoundPct
+22222   averageIOserviceTime
